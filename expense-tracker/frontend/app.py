@@ -133,7 +133,7 @@ header {visibility: hidden;}
 # ─────────────────────────────────────────────────────
 
 init_session_state()
-st.write("✨ SYSTEM UPDATE SUCCESSFUL - PREMIUM LOOK LOADING... ✨")
+
 
 # ─────────────────────────────────────────────────────
 # Authentication
